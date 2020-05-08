@@ -9,38 +9,12 @@
 ![Contributors](https://img.shields.io/github/contributors/2kabhishek/nerver?style=plastic&color=ff69b4&label=Contributors)
 ![Followers](https://img.shields.io/github/followers/2kabhishek?style=plastic&color=blue&label=Followers)
 
-nerver is a `<utility/tool/feature>` that allows `<insert_target_audience>` to do `<action/task_it_does>`.
-
-## Prerequisites
-
-Before you begin, ensure you have met the following requirements:
-
-* You have installed the latest version of `<coding_language/dependency/requirement_1>`
-
-## Installing nerver
-
-To install nerver, follow these steps:
-
-Linux & Mac OS:
-
-```bash
-git clone https://github.com/2kabhishek/nerver
-cd nerver
-<install_command>
-```
-
-Windows:
-
-```bash
-<install_command>
-```
+nerver is a HTTP server built using node.js.
 
 ## Using nerver
 
-To use nerver, follow these steps:
+To run nerver:
 
 ```bash
-<usage_example>
+npm start
 ```
-### More Info
-
