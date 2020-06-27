@@ -1,5 +1,3 @@
-<div align="center">
-
 # nerver
 
 ![Size](https://img.shields.io/github/repo-size/2kabhishek/nerver?style=plastic&color=0f0&label=Size)
@@ -12,7 +10,6 @@
 
 nerver is a HTTP server built using node.js.
 
-</div>
 
 ## Using nerver
 
@@ -23,5 +20,4 @@ git clone https://github.com/2kabhishek/nerver.git
 cd nerver
 npm start
 ```
-Please consider hitting the ⭐ star button if this repo was useful to you, any contributions and suggestions are welcome.
 
