@@ -10,7 +10,6 @@
 
 nerver is a HTTP server built using node.js.
 
-
 ## Using nerver
 
 To run nerver:
@@ -20,4 +19,3 @@ git clone https://github.com/2kabhishek/nerver.git
 cd nerver
 npm start
 ```
-
